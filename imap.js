@@ -5,10 +5,10 @@ const mysql = require('mysql2');
 
 // Database connection configuration
 const dbConfig = {
-    host: 'root.node.webworkshub.online',
+    host: '',
     port: 3306,
-    user: 'u66_4FQxNSTmFZ',
-    password: 'lCnkQYTXBXl.O2y5bR@UKhKJ',
+    user: '',
+    password: '',
     database: 's66_mail'
 };
 
