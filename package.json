@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.11.0",
+    "net": "^1.0.2",
+    "querystring": "^0.2.1",
+    "quoted-printable": "^1.0.1"
+  }
+}
